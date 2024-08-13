@@ -1,0 +1,36 @@
+              <section class="py-3 text-center">
+                <h2 class="fs-1 fw-bold pb-3">서비스 가격</h1>
+                <p class="text-muted text-center pb-3">Lorem ipsum dolor sit amet.</p>   
+                <div class="row pb-3 gy-4">
+                  <div class="col-sm-12 col-lg-6">
+                    <div class="card py-3">
+                        <div class="card-body py-3">
+                            <h5 class="card-title">개별 룸</h5>
+                            <h5 class="card-title">35,000원 ~</h5>
+                            <ul class="list-group py-3">
+                              <li class="list-group-item">An item</li>
+                              <li class="list-group-item">A second item</li>
+                              <li class="list-group-item">A third item</li>
+                              <li class="list-group-item text-decoration-line-through">A fourth item</li>
+                              <li class="list-group-item text-decoration-line-through">And a fifth one</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-6">
+                    <div class="card py-3">                        
+                        <div class="card-body py-3">
+                            <h5 class="card-title">풀 하우스</h5>
+                            <h5 class="card-title">150,000원 ~</h5>
+                            <ul class="list-group py-3">
+                              <li class="list-group-item">An item</li>
+                              <li class="list-group-item">A second item</li>
+                              <li class="list-group-item">A third item</li>
+                              <li class="list-group-item text-decoration-line-through">A fourth item</li>
+                              <li class="list-group-item text-decoration-line-through">And a fifth one</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                </div>
+              </section>
